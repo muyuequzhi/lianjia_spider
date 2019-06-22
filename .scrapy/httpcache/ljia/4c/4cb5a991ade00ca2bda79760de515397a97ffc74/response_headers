@@ -1,0 +1,10 @@
+Server: Lianjia
+Date: Sat, 22 Jun 2019 01:45:35 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Set-Cookie: select_city=310000; expires=Sun, 23-Jun-2019 01:45:35 GMT; Max-Age=86400; path=/; domain=.lianjia.com
+Set-Cookie: lianjia_ssid=3dedd844-1389-40f2-bba2-9b6c8bbcebd3; expires=Sat, 22-Jun-19 02:15:35 GMT; Max-Age=1800; domain=.lianjia.com; path=/
+Set-Cookie: lianjia_uuid=2d57aa39-395e-476f-bf54-f1f974360e4e; expires=Tue, 19-Jun-29 01:45:35 GMT; Max-Age=315360000; domain=.lianjia.com; path=/
+Response-Request-Id: 6220387219894
+Via: web63-online.zeus.ljnode.com
+Content-Encoding: gzip
