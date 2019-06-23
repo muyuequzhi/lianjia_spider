@@ -35,4 +35,4 @@ house、type、area、direction、price、traffic、district
 
 + 数据分析的代码及过程在: https://github.com/muyuequzhi/lianjia_spider/ljia.ipynb
 
-![image](https://github.com/muyuequzhi/lianjia_spider/blob/master/images/ljia1.png)
+![image](https://github.com/muyuequzhi/lianjia_spider/blob/master/images/ljia2.png)
