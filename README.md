@@ -5,6 +5,8 @@
 ![image](https://github.com/muyuequzhi/lianjia_spider/blob/master/images/ljia1.png)
 
 ```
+cd ljia
+
 保存至csv文件：
 python start.py csv
 保存至mysql：
