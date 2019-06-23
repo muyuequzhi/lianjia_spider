@@ -2,7 +2,7 @@
 
 + 采用scrapy爬取了上海链家将近20000条数据，然后进行分析。
 
-![image](https://github.com/muyuequzhi/lianjia_spider/tree/master/imgs/ljia1.png)
+![image](https://github.com/muyuequzhi/lianjia_spider/blob/master/imgs/ljia1.png)
 
 ```
 保存至csv文件：
@@ -35,4 +35,4 @@ house、type、area、direction、price、traffic、district
 
 + 数据分析的代码及过程在: https://github.com/muyuequzhi/lianjia_spider/ljia.ipynb
 
-![image](https://github.com/muyuequzhi/lianjia_spider/tree/master/imgs/ljia2.png)
+![image](https://github.com/muyuequzhi/lianjia_spider/blob/master/imgs/ljia1.png)
